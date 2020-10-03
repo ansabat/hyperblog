@@ -6,3 +6,5 @@ Aprendiendo GIT y Data Science
 
 
 Se quiere ir a Londres
+
+También podria irse a Irlanda u otro pais de habla inglesa.
