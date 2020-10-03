@@ -5,4 +5,4 @@ Tengo 28 años
 Aprendiendo GIT y Data Science
 
 
-Se quiere ir a Londres pero también podria irse a Irlanda u otro pais de habla inglesa.
+Se quiere ir a Londres pero también podria irse a Irlanda, Australia u otro pais de habla inglesa.
